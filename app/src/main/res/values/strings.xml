@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="urlBase">https://pokeapi.co/api/v2/pokemon?limit=151</string>
+    <string name="url">url</string>
+    <string name="peso">Weight:</string>
+    <string name="altura">Height:</string>
+    <string name="experiencia">Base Experience:</string>
+    <string name="tipos">Types:</string>
+
+    <string name="name">name</string>
+    <string name="base_experience">base_experience</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="types">types</string>
+    <string name="type">type</string>
+    <string name="sprites">sprites</string>
+    <string name="other">other</string>
+    <string name="official_artwork">official-artwork</string>
+    <string name="front_default">front_default</string>
+    <string name="results">results</string>
+
+
+</resources>
